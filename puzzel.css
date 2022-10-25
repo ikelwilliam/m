@@ -1,0 +1,21 @@
+body{
+	font-family: Arial, Helvetica, sans-serif;
+	text-align: center;
+	color: yellow;
+	background-color: #00838f;
+}
+#board{
+	width: 360px;
+	height: 360px;
+	background-color: lightyellow;
+	border: 10px solid yellow;
+
+	margin: 0 auto;
+	display: flex;
+	flex-wrap: wrap;
+}
+#board img{
+	width: 118px;
+	height: 118px;
+	border: 1px solid yellow;
+}
